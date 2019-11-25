@@ -1,7 +1,7 @@
 # ProjetoAS20192
 
-Equipe:
-                  
+EQUIPE:
+
 Henrique Arriel
 João Marcos
 Wesley Henrique
