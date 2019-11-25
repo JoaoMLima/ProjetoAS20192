@@ -2,8 +2,8 @@
 
 Equipe:
                   
-Henrique Arriel      
+Henrique Arriel
 João Marcos
-Wesley Henrique   
+Wesley Henrique
 Lucas Chaves
 Débora Ferreira
